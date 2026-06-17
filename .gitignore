@@ -71,6 +71,4 @@ ehthumbs.db
 *.sqlite
 *.sqlite3
 
-# Project Custom Ignores
-docs/
-tests/
+
